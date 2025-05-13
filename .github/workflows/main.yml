@@ -20,4 +20,4 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
-          
+          config_display: columns
